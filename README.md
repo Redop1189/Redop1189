@@ -9,4 +9,4 @@ Redop1189/Redop1189 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![My Name](https://img.shields.io/badge/Name-Redop1189%20-orange)
+[![My Name](https://img.shields.io/badge/Name-Redop1189%20-orange)](https://github.com/Redop1189/Redop1189)
