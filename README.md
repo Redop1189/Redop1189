@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 }
 ```
 
-![about](img/Redop1189.svg)
+[![about](img/Redop1189.svg)](https://github.com/Redop1189/)
 <br><br>
 
 <p align="center"> 
