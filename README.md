@@ -1,6 +1,6 @@
 <h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Prathamesh Pawar</h1>
 
-<code><h2 align="center">I’m interested in Web Development, Web Design ...</h2></code>
+<h2 align="center">I’m interested in Web Development, Web Design ...</h2>
 
 <code><h3 align="center">I’m currently learning to Code</h3></code>
 
