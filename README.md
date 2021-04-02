@@ -37,7 +37,6 @@ You can click the Preview link to take a look at your changes.
 <!---
 [![about](img/Redop1189.svg)](https://github.com/Redop1189/)
 [![Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redop1189&show_icons=true&theme=gruvbox)](https://github.com/Redop1189/)--->
-<br><br>
 
 <p align="center">    <code><a href="https://github.com/Redop1189/"> <img src="img/Redop1189.svg" alt="about" width="330"/></a></code> <code><a href="https://github.com/Redop1189/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=Redop1189&show_icons=true&theme=gruvbox" alt="Red's GitHub stats"/></a></code>  </p>
 
