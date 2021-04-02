@@ -13,9 +13,11 @@ Redop1189/Redop1189 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 [![My Name](https://img.shields.io/badge/Name-Redop1189%20-orange)](https://github.com/Redop1189/)  [![Followers](https://img.shields.io/github/followers/Redop1189?style=social)](https://github.com/Redop1189/)  [![Stars](https://img.shields.io/github/stars/Redop1189?style=social)](https://github.com/Redop1189/)  [![My Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Redop1189%20-red)](https://redop1189.github.io/)
 --->
-<br><br>
+
 <p align="center"><code><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/badge/Name-Redop1189%20-orange" alt="My Name"/></a></code></p>
+
 <p align="center"><code><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/followers/Redop1189?style=social" alt="Followers"/></a><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/stars/Redop1189?style=social" alt="Stars"/></a></code></p>
+
 <p align="center"><code><a href="https://redop1189.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20Portfolio-Redop1189%20-red" alt="My Portfolio"/></a></code></p>
 
 ```python
