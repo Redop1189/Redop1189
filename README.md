@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><code><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/followers/Redop1189?style=social" alt="Followers"/></a><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/stars/Redop1189?style=social" alt="Stars"/></a></code></p>
 
-<p align="center"><code><a href="https://redop1189.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20Portfolio-Redop1189%20-red" alt="My Portfolio"/></a></code></p>
+<p align="center"><code><a href="https://prathameshpawar.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20Portfolio-Redop1189%20-red" alt="My Portfolio"/></a></code></p>
 
 ```python
 {
