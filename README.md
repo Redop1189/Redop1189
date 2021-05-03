@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><code><a href="https://prathameshpawar.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20Portfolio-Redop1189%20-red" alt="My Portfolio"/></a></code></p>
 
+<p align="center"><code> <img src="https://komarev.com/ghpvc/?username=redop1189&label=Profile%20views&color=0e75b6&style=flat" alt="redop1189" /> </code></p>
+
 ```python
 {
   "_id": "5cf0029caff5054591b0gjf",
