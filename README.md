@@ -15,15 +15,15 @@
 ```python
 {
   "_id": "5cf0029caff5054591b0gjf",
-  "firstname": "Redop",
-  "lastname": "1189",
+  "firstname": "Prathamesh",
+  "lastname": "Pawar",
   "address": {
-    "street": "byte",
-    "city": "Git",
-    "state": "Cloud",
+    "street": "Hacker",
+    "city": "Night",
+    "state": "Reddorf",
     "zip": "100 101"
   },
-  "hobbies": ["coding", "Designing", "surfing"]
+  "hobbies": ["Coding", "Designing", "Surfing"]
 }
 ```
 <!---
