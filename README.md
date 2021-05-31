@@ -5,8 +5,10 @@
 <code><h3 align="center">I’m currently learning to Code</h3></code>
 
 <p align="center"><code><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/badge/Name-Redop1189%20-orange" alt="My Name"/></a></code></p>
+
 <!-- <a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/followers/Redop1189?style=social" alt="Followers"/></a> -->
-<p align="center"><code><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/stars/Redop1189?style=social" alt="Stars"/></a>  <img src="https://komarev.com/ghpvc/?username=redop1189&label=Profile%20views&color=0e75b6&style=flat" alt="redop1189" /> </code></p>
+
+<p align="center"><code><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/stars/Redop1189?style=social" alt="Stars"/></a>  <img src="https://komarev.com/ghpvc/?username=redop1189&label=Profile%20views&color=brightgreen&style=flat" alt="redop1189" /> </code></p>
 
 <a title="Portfolio, Prathamesh Pawar" href="https://prathameshpawar.vercel.app/"><img alt="My portfolio, Prathamesh Pawar" src="img/portfolio.png" height="60" /></a> <a title="Instagram" href="https://www.instagram.com/prathameshpawar1189/"><img alt="Instagram" src="img/instagram.png" height="60" /></a>
 
