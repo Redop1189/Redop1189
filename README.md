@@ -1,4 +1,6 @@
-<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Prathamesh Pawar</h1>
+<!-- <h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Prathamesh Pawar</h1> -->
+
+<a title="Portfolio, Prathamesh Pawar" href="https://prathameshpawar.vercel.app/"><img alt="Prathamesh Pawar" src="img/profile.v1.png" /></a></a>
 
 ## Prathamesh Pawar (he/him)
 
