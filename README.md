@@ -12,7 +12,7 @@
 
 <p align="center"><code><a href="https://github.com/Redop1189/"> <img src="https://img.shields.io/github/stars/Redop1189?style=social" alt="Stars"/></a>  <img src="https://komarev.com/ghpvc/?username=redop1189&label=Profile%20views&color=brightgreen&style=flat" alt="redop1189" /> </code></p>
 
-<a title="Portfolio, Prathamesh Pawar" href="https://prathameshpawar.vercel.app/"><img alt="My portfolio, Prathamesh Pawar" src="img/portfolio.png" height="60" /></a> <a title="Instagram" href="https://www.instagram.com/prathameshpawar1189/"><img alt="Instagram" src="img/instagram.png" height="60" /></a>
+<a title="Portfolio, Prathamesh Pawar" href="https://prathameshpawar.vercel.app/"><img alt="My portfolio, Prathamesh Pawar" src="img/Portfolio.png" height="60" /></a> <a title="Instagram" href="https://www.instagram.com/prathameshpawar1189/"><img alt="Instagram" src="img/Instagram.png" height="60" /></a>
 
 ```python
 {
